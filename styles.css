@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table {
+    border: 2px solid  rgb(17, 17, 53);
+    
+}
+td {
+    display: inline-block;
+}
+#display {
+    width: 162px;
+    font-size: 20px;
+}
+
+#btn  {
+    padding: 18px;
+    border: none;
+    width: 40px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ 
